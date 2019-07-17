@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+target
+*.iml
+*.ipr
+*.iws
+.metadata
+.idea/
+*.DS_Store
+*.launch
+*/*.log
+*/*.log.*
+*/export.xls
